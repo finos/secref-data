@@ -1,7 +1,7 @@
 SPDXVersion: SPDX-2.0
 DataLicense: CC0-1.0
 Creator: {name of copyright owner}
-PackageName: {project name}
+PackageName: secref-data
 PackageOriginator: {name of copyright owner}
-PackageHomePage: https://github.com/{program name}/{project name}
+PackageHomePage: https://github.com/finos/secref-data
 PackageLicenseDeclared: Apache-2.0
