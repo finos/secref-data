@@ -1,5 +1,5 @@
 ---
-name: "\U0001F91DODP Meeting Minutes"
+name: "\U0001F91DSecRef Data Meeting Minutes"
 about: To track Security Reference Data meeting agenda and attendance
 title: DD MMM YYYY - SecRef Meeting Minutes
 labels: meeting
