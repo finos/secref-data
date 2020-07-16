@@ -6,9 +6,9 @@ labels: meeting
 assignees: ''
 
 ---
-
+# Security Reference Data Project Meeting
 ## Date
-Wednesday DD MMM yyyy - 12pm EST
+DD MMM yyyy - 12pm EST
 
 ## Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username
@@ -30,9 +30,7 @@ Wednesday DD MMM yyyy - 12pm EST
 - [ ] ...
 
 ### WebEx info
-- [WebEx Meeting URL](...)
-- Meeting Number: ...
-- Call from USA: +1-415-655-0003
-- Call from CANADA: +1-647-484-1596 
-- Call from UK: +44-20319-88141
-- Call from Spain: +34-93545-2895
+- [WebEx Meeting URL](https://finos.webex.com/finos/j.php?MTID=mf43ec72e7ce8e771da12093c940c7ab9)
+- Meeting Number: 668 805 739
+- Join by phone: +1.415.655.0003 USA Toll | +44-20319-88141 UK Toll | Access code: 668 805 739
+- [Global call-in numbers](https://finos.webex.com/finos/globalcallin.php?serviceType=MC&ED=582460637&tollFree=0)
