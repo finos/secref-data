@@ -1,15 +1,15 @@
 ---
 name: "\U0001F91DCurrency Ref Data Meeting Minutes"
-about: To track Security Reference Data meeting agenda and attendance
-title: ''
+about: To track Currency Reference Data meeting agenda and attendance
+title: MMM DD YYYY - Currency Ref Data Meeting Minutes
 labels: Currency Reference Data, meeting
 assignees: ''
 
 ---
 
-# Currency Reference Data Project Meeting
+# Currency Reference Data Meeting
 ## Date
-DD MMM yyyy - 12pm EST
+MMM DD YYYY - 10am EST / 3pm BST
 
 ## Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username

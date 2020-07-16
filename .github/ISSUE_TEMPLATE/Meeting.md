@@ -1,7 +1,7 @@
 ---
 name: "\U0001F91DSecRef Data Meeting Minutes"
 about: To track Security Reference Data meeting agenda and attendance
-title: DD MMM YYYY - SecRef Meeting Minutes
+title: MMM DD YYYY - SecRef Meeting Minutes
 labels: Securities Reference Data, meeting
 assignees: ''
 
@@ -9,7 +9,7 @@ assignees: ''
 
 # Security Reference Data Project Meeting
 ## Date
-DD MMM yyyy - 12pm EST
+MMM DD YYYY - 11am EST / 4pm BST
 
 ## Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username
