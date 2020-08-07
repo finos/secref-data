@@ -2,46 +2,24 @@ Badges go here (see [shields.io](https://shields.io/), for examples).
 
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 
-# secref-data
+<img src="https://github.com/finos/finos-landscape/blob/master/hosted_logos/security-reference-data.svg" width="100">
 
-Short blurb about what your project does.
+# Securities Reference Data Project 
 
-## Installation
+Welcome to the Securities Reference Data project, hosted and led by [FINOS, The Fintech Open Source Foundation](https://www.finos.org). The Securities Reference Data project was launched in 2018 by FINOS member Nomura. 
 
-OS X & Linux:
+### Challenge
+There are a range of trade identifiers used across financial services (ISIN, CUSIP, SEDOL, LEI, FIGI, RIC, BBID and many more) that serve a number of purposes, from validating the integrity of a security to providing common identifiers used during trading and settlement. The majority are either fully or partially “closed" codes, although there are some initiatives that are partially or fully open, like FIGI and OpenCorporates.
 
-```sh
-npm install my-crazy-module --save
-```
+However, no single code covers all securities, while individual securities may be represented by multiple identifiers and the granularity of coverage at entity vs. corporate level also varies. This often necessitates costly and error prone mapping across identifiers. The extent of the problem is greater in some asset classes than others and certainly more prominent within the OTC market.
+Additionaly, the existence of regionally focused bodies/companies responsible for issuing the identifiers and, in come cases, requiring licenses to access them contributes to the problem, as they minimize the possibility of consolidation onto one identifier, causing delays and reducing transparency. All of these factors impact market efficiency and contribute to trade breaks and errors.
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your project can be used. Spice this up with code blocks and potentially screenshots / videos ([LiceCap](https://www.cockos.com/licecap/) is great for this kind of thing).
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
+### Current focus
+The project is currently discussing the development of an open source cloud-based solution to map securities and issuer IDs. Doing this once collaboratively has the potential to significantly reduce the costs and effort of maintaining this individually. The group has also been discussing the creation of a Currency Data Standard.
 
 ## Roadmap
 
-List the roadmap steps; alternatively link the Confluence Wiki page where the project roadmap is published.
-
-1. Item 1
-2. Item 2
-3. ....
+Access the SecRef Data Roadmap [here](https://github.com/finos/secref-data/issues/25)
 
 ## Contributing
 
