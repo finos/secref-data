@@ -17,10 +17,22 @@ Additionaly, the existence of regionally focused bodies/companies responsible fo
 ### Current focus
 The project is currently discussing the development of an open source cloud-based solution to map securities and issuer IDs. Doing this once collaboratively has the potential to significantly reduce the costs and effort of maintaining this individually. The group has also been discussing the creation of a Currency Data Standard.
 
-## Roadmap
+# Project materials and communication
+All Security Reference Data project collaboration activities, including meeting minutes, are hosted on this SecRef Data GitHub repo. Activities prior to July 2020 can be found in the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834673/Security+Reference+Data+Project). For more information about FINOS project materials and communication, please review the [FINOS Governance](https://github.com/finos/community/blob/master/governance/Collaborative-Principles.md).
 
+### Roadmap
 Access the SecRef Data Roadmap [here](https://github.com/finos/secref-data/issues/25)
 
+### Meetings
+Dates and call-in details for Security Reference Data project meetings can be found on the [FINOS project meetings calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York)
+
+### Meeting minutes
+Minutes of the Security Reference Data project meetings can be accessed [here](https://github.com/finos/secref-data/issues?q=label%3Ameeting+). If you're looking for meeting minutes dated June 2020 or earlier, please access the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834678/Minutes+of+the+Security+Reference+Data+Project).
+
+### Mailing list
+Communications for the Securities Reference Data project are conducted through the data-tech-sec-ref@finos.org mailing list. Please email help@finos.org if you'd like to be added to the list.
+
+  
 ## Contributing
 
 1. Fork it (<https://github.com/finos/secref-data/fork>)
