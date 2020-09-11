@@ -2,47 +2,37 @@ Badges go here (see [shields.io](https://shields.io/), for examples).
 
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 
-# secref-data
+<img src="https://github.com/finos/finos-landscape/blob/master/hosted_logos/security-reference-data.svg" width="100">
 
-Short blurb about what your project does.
+# Securities Reference Data Project 
 
-## Installation
+Welcome to the Securities Reference Data project, hosted and led by [FINOS, The Fintech Open Source Foundation](https://www.finos.org). The Securities Reference Data project was launched in 2018 by FINOS member Nomura. 
 
-OS X & Linux:
+### Challenge
+There are a range of trade identifiers used across financial services (ISIN, CUSIP, SEDOL, LEI, FIGI, RIC, BBID and many more) that serve a number of purposes, from validating the integrity of a security to providing common identifiers used during trading and settlement. The majority are either fully or partially “closed" codes, although there are some initiatives that are partially or fully open, like FIGI and OpenCorporates.
 
-```sh
-npm install my-crazy-module --save
-```
+However, no single code covers all securities, while individual securities may be represented by multiple identifiers and the granularity of coverage at entity vs. corporate level also varies. This often necessitates costly and error prone mapping across identifiers. The extent of the problem is greater in some asset classes than others and certainly more prominent within the OTC market.
+Additionaly, the existence of regionally focused bodies/companies responsible for issuing the identifiers and, in come cases, requiring licenses to access them contributes to the problem, as they minimize the possibility of consolidation onto one identifier, causing delays and reducing transparency. All of these factors impact market efficiency and contribute to trade breaks and errors.
 
-Windows:
+### Current focus
+The project is currently discussing the development of an open source cloud-based solution to map securities and issuer IDs. Doing this once collaboratively has the potential to significantly reduce the costs and effort of maintaining this individually. The group has also been discussing the creation of a Currency Data Standard.
 
-```sh
-edit autoexec.bat
-```
+# Project materials and communication
+All Security Reference Data project collaboration activities, including meeting minutes, are hosted on this SecRef Data GitHub repo. Activities prior to July 2020 can be found in the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834673/Security+Reference+Data+Project). For more information about FINOS project materials and communication, please review the [FINOS Governance](https://github.com/finos/community/blob/master/governance/Collaborative-Principles.md).
 
-## Usage example
+### Roadmap
+Access the SecRef Data Roadmap [here](https://github.com/finos/secref-data/issues/25)
 
-A few motivating and useful examples of how your project can be used. Spice this up with code blocks and potentially screenshots / videos ([LiceCap](https://www.cockos.com/licecap/) is great for this kind of thing).
+### Meetings
+Dates and call-in details for Security Reference Data project meetings can be found on the [FINOS project meetings calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York)
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+### Meeting minutes
+Minutes of the Security Reference Data project meetings can be accessed [here](https://github.com/finos/secref-data/issues?q=label%3Ameeting+). If you're looking for meeting minutes dated June 2020 or earlier, please access the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834678/Minutes+of+the+Security+Reference+Data+Project).
 
-## Development setup
+### Mailing list
+Communications for the Securities Reference Data project are conducted through the data-tech-sec-ref@finos.org mailing list. Please email help@finos.org if you'd like to be added to the list.
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Roadmap
-
-List the roadmap steps; alternatively link the Confluence Wiki page where the project roadmap is published.
-
-1. Item 1
-2. Item 2
-3. ....
-
+  
 ## Contributing
 
 1. Fork it (<https://github.com/finos/secref-data/fork>)
