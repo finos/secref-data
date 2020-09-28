@@ -23,6 +23,9 @@ All Security Reference Data project collaboration activities, including meeting 
 ### Roadmap
 Access the SecRef Data Roadmap [here](https://github.com/finos/secref-data/issues/25)
 
+### Use Cases
+Please add use cases as a comment [here](https://github.com/finos/secref-data/issues/33)
+
 ### Meetings
 Dates and call-in details for Security Reference Data project meetings can be found on the [FINOS project meetings calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York)
 
@@ -32,7 +35,6 @@ Minutes of the Security Reference Data project meetings can be accessed [here](h
 ### Mailing list
 Communications for the Securities Reference Data project are conducted through the data-tech-sec-ref@finos.org mailing list. Please email help@finos.org if you'd like to be added to the list.
 
-  
 ## Contributing
 
 1. Fork it (<https://github.com/finos/secref-data/fork>)
