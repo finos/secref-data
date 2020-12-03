@@ -1,15 +1,16 @@
 ---
-name: "\U0001F91DCurrency Ref Data Meeting Minutes"
-about: To track Currency Reference Data meeting agenda and attendance
-title: MMM DD YYYY - Currency Ref Data Meeting Minutes
-labels: Currency Reference Data, meeting
+name: "\U0001F91DSecRef Data Meeting Minutes"
+about: To track Security Reference Data meeting agenda and attendance
+title: MMM DD YYYY - SecRef Meeting Minutes
+labels: Securities Reference Data, meeting
 assignees: ''
 
 ---
 
-# Currency Reference Data Meeting
+# Security Reference Data Project Meeting
+
  ## Date
-YYYYMMDD - 10am ET / 3pm GMT
+YYYYMMDD - 11am ET / 4pm GMT
 
 ## Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username
@@ -45,8 +46,7 @@ YYYYMMDD - 10am ET / 3pm GMT
 - [ ] ...
 
 ### WebEx info
-- [WebEx Meeting URL](https://finos.webex.com/finos/j.php?MTID=mf27815a7807f13f1d0974a973196cb4c)
-- Meeting Number: 127 819 0322
-- Join by phone: +1.415.655.0003 USA Toll | +44-20319-88141 UK Toll | Access code: 127 819 0322
-- Password: VXcd2eQgh82
+- [WebEx Meeting URL](https://finos.webex.com/finos/j.php?MTID=mf43ec72e7ce8e771da12093c940c7ab9)
+- Meeting Number: 668 805 739
+- Join by phone: +1.415.655.0003 USA Toll | +44-20319-88141 UK Toll | Access code: 668 805 739
 - [Global call-in numbers](https://finos.webex.com/finos/globalcallin.php?serviceType=MC&ED=582460637&tollFree=0)
