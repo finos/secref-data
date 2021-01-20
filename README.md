@@ -13,9 +13,9 @@ The project currently has two work streams: **Securities Reference Data** and **
 ## Securities Reference Data
 
 ### Roadmap
-The project is currently discussing the development of an open source cloud-based solution to map securities and issuer IDs. Doing this once collaboratively has the potential to significantly reduce the costs and effort of maintaining this individually. The group has also been discussing the creation of a Currency Data Standard.
+The project is currently discussing the development of an [open source cloud-based solution to map securities and issuer IDs](https://github.com/finos/secref-data/blob/master/SecRef_%20Securities%20%26%20Issuer%20ID%20mapping_%20.pdf). Doing this once collaboratively has the potential to significantly reduce the costs and effort of maintaining this individually.
 
-For more information see the [SecRef Data Roadmap](https://github.com/finos/secref-data/issues/25).
+For more information see the [Securities Reference Data Roadmap](https://github.com/finos/secref-data/issues/25) .
 
 #### Background
 There are a range of trade identifiers used across financial services (ISIN, CUSIP, SEDOL, LEI, FIGI, RIC, BBID and many more) that serve a number of purposes, from validating the integrity of a security to providing common identifiers used during trading and settlement. The majority are either fully or partially “closed" codes, although there are some initiatives that are partially or fully open, like FIGI and OpenCorporates.
@@ -36,21 +36,23 @@ Communications for the Securities Reference Data project are conducted through t
 
 ## Currency Reference Data 
 
+### Roadmap
 The objective of this work stream is to create a standard object to represent currency data and create a central cloud based repository of the currency data. 
 Modeling is being done in the FINOS hosted instance of [Legend Studio](https://github.com/finos/legend-studio), and the current model can be accessed at https://legend.finos.org/studio/viewer/UAT-38. Please note that you will need to have an account on the FINOS hosted instance of Legend Studio in order to access it. You can request an account at [finos.org/legend](https://www.finos.org/legend). 
 
-### Roadmap
-For more information see the [Currency Reference Data Roadmap](https://github.com/finos/secref-data/issues/29)
+For more information see the **[Currency Reference Data Roadmap](https://github.com/finos/secref-data/issues/29)**.
 
 #### Background
 The Currency Reference Data work stream spawned off the Legend Pilot FX Options working group, which identified the need to standardise currency data for several use cases.  In an example of cross pollination across FINOS projects, the FX Options working group connected with the Securities Reference Data project and participants from both groups decided to set up a Currency Reference Data work stream. 
 
 ### Contribute to CurRef Data
-There are several ways to contribute to Currency Reference Data
+There are several ways to contribute to Currency Reference Data:
 
 * Contribute **use cases** at https://github.com/finos/secref-data/issues/30
 * Join the next **meeting**: participants of the Currency Reference Data workstream meet every second Tuesday at 10am ET / 3pm GMT (see [past meeting minutes]() and find the next meeting on the [FINOS projects calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York). Minutes of the Currency Reference Data project meetings can be accessed [here](https://github.com/finos/secref-data/issues?q=label%3A%22meeting%22+)
 * **Propose changes to the model**: request an account at finos.org/legend in order to access the model at https://legend.finos.org/studio/viewer/UAT-38
+* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://github.com/finos/secref-data/issues/new/choose)
+
 
 ## Contributing
 
