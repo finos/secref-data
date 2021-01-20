@@ -27,8 +27,8 @@ Additionaly, the existence of regionally focused bodies/companies responsible fo
 All Securities Reference Data project collaboration activities, including meeting minutes, are hosted on this SecRef Data GitHub repo. Activities prior to July 2020 can be found in the Securities Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834673/Security+Reference+Data+Project). For more information about FINOS project materials and communication, please review the [FINOS Governance](https://github.com/finos/community/blob/master/governance/Collaborative-Principles.md).
 
 There are several ways to contribute to SecRef Data:
-* Join the next **meeting**: Dates and call-in details for Security Reference Data project meetings can be found on the [FINOS project meetings calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York). 
-Minutes of the Security Reference Data project meetings can be accessed [here](https://github.com/finos/secref-data/issues?q=label%3Ameeting+). If you're looking for meeting minutes dated June 2020 or earlier, please access the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834678/Minutes+of+the+Security+Reference+Data+Project).
+* Join the next **meeting**: participants of the Security Reference Data project meet every second Tuesday at 11am ET / 4pm GMT. Find the next meeting on the [FINOS project meetings calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York). 
+and browse [past meeting minutes in GitHub](https://github.com/finos/secref-data/issues?q=label%3Ameeting+). If you're looking for meeting minutes dated June 2020 or earlier, please access the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834678/Minutes+of+the+Security+Reference+Data+Project).
 * Join the **mailing list**
 Communications for the Securities Reference Data project are conducted through the data-tech-sec-ref@finos.org mailing list. Please email [data-tech-sec-ref+subscribe@finos.org](mailto:data-tech-sec-ref+subscribe@finos.org) to join the mailing list.
 * Contribute **use cases** at https://github.com/finos/secref-data/issues/33)
@@ -49,8 +49,8 @@ The Currency Reference Data work stream spawned off the Legend Pilot FX Options 
 There are several ways to contribute to Currency Reference Data:
 
 * Contribute **use cases** at https://github.com/finos/secref-data/issues/30
-* Join the next **meeting**: participants of the Currency Reference Data workstream meet every second Tuesday at 10am ET / 3pm GMT (see [past meeting minutes]() and find the next meeting on the [FINOS projects calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York). Minutes of the Currency Reference Data project meetings can be accessed [here](https://github.com/finos/secref-data/issues?q=label%3A%22meeting%22+)
-* **Propose changes to the model**: request an account at finos.org/legend in order to access the model at https://legend.finos.org/studio/viewer/UAT-38
+* Join the next **meeting**: participants of the Currency Reference Data workstream meet every second Tuesday at 10am ET / 3pm GMT. Find the next meeting on the [FINOS projects calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) and browse [past meeting minutes in GitHub](https://github.com/finos/secref-data/labels/meeting).
+* **Propose changes to the model**: request an account on the FINOS Legend Studio hosted instance at [finos.org/legend](https://www.finos.org/legend) in order to access the model at https://legend.finos.org/studio/viewer/UAT-38
 * **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://github.com/finos/secref-data/issues/new/choose)
 
 
