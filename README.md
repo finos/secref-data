@@ -39,7 +39,9 @@ Communications for the Securities Reference Data project are conducted through t
 
 ### Roadmap
 The objective of this work stream is to create a standard object to represent currency data and create a central cloud based repository of the currency data. 
-Modeling is being done in the FINOS hosted instance of [Legend Studio](https://github.com/finos/legend-studio), and the current model can be accessed at https://legend.finos.org/studio/viewer/UAT-38. Please note that you will need to have an account on the FINOS hosted instance of Legend Studio in order to access it. You can request an account at [finos.org/legend](https://www.finos.org/legend). 
+Modeling is being done in the FINOS hosted instance of [Legend Studio](https://github.com/finos/legend-studio), and the current model can be accessed at https://legend.finos.org/studio/viewer/UAT-38 (see screenshot below) Please note that you will need to have an account on the FINOS hosted instance of Legend Studio in order to access it. You can request an account at [finos.org/legend](https://www.finos.org/legend). 
+
+<img src="https://github.com/finos/secref-data/blob/master/CurRefModel_Screenshot.png" width="1000">
 
 For more information see the **[Currency Reference Data Roadmap](https://github.com/finos/secref-data/issues/29)**.
 
