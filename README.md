@@ -55,6 +55,7 @@ In an example of cross pollination across FINOS projects, the FX Options working
 There are several ways to contribute to Currency Reference Data:
 
 * **Join the next meeting**: participants of the Currency Reference Data workstream meet every second Tuesday at 10am ET / 3pm GMT. Find the next meeting on the [FINOS projects calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) and browse [past meeting minutes in GitHub](https://github.com/finos/secref-data/labels/meeting).
+* **Join the mailing list**: Communications for the Currency Reference Data project are conducted through the currency-ref-data@finos.org mailing list. Please email [currency-ref-data@finos.org](mailto:currency-ref-data@finos.org) to join the mailing list.
 * **Propose changes to the model**: request an account on the FINOS Legend Studio hosted instance at [finos.org/legend](https://www.finos.org/legend) in order to access the model at https://legend.finos.org/studio/viewer/UAT-38
 * **Contribute use cases** at https://github.com/finos/secref-data/issues/30
 * **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://github.com/finos/secref-data/issues/new/choose)
