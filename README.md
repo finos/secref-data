@@ -13,7 +13,7 @@ The project currently has two work streams: **Securities Reference Data** and **
 ## Securities Reference Data
 
 ### Roadmap
-The project is currently discussing the development of an [open source cloud-based solution to map securities and issuer IDs](https://github.com/finos/secref-data/blob/master/SecRef_%20Securities%20%26%20Issuer%20ID%20mapping_%20.pdf). Doing this once collaboratively has the potential to significantly reduce the costs and effort of maintaining this individually.
+The Securities Reference Data project aims to develop an [open source cloud-based solution to map securities and issuer IDs](https://github.com/finos/secref-data/blob/master/SecRef_%20Securities%20%26%20Issuer%20ID%20mapping_%20.pdf). Doing this once collaboratively has the potential to significantly reduce the costs and effort of maintaining this individually.
 
 For more information see the [Securities Reference Data Roadmap](https://github.com/finos/secref-data/issues/25) .
 
@@ -27,8 +27,7 @@ Additionaly, the existence of regionally focused bodies/companies responsible fo
 All Securities Reference Data project collaboration activities, including meeting minutes, are hosted on this SecRef Data GitHub repo. Activities prior to July 2020 can be found in the Securities Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834673/Security+Reference+Data+Project). For more information about FINOS project materials and communication, please review the [FINOS Governance](https://github.com/finos/community/blob/master/governance/Collaborative-Principles.md).
 
 There are several ways to contribute to SecRef Data:
-* **Join the next meeting**: participants of the Security Reference Data project meet every second Tuesday at 11am ET / 4pm GMT. Find the next meeting on the [FINOS project meetings calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York). 
-and browse [past meeting minutes in GitHub](https://github.com/finos/secref-data/issues?q=label%3Ameeting+). If you're looking for meeting minutes dated June 2020 or earlier, please access the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834678/Minutes+of+the+Security+Reference+Data+Project).
+* **Browse past meeting minutes**: browse past meeting minutes in [GitHub](https://github.com/finos/secref-data/issues?q=label%3Ameeting+). If you're looking for meeting minutes dated June 2020 or earlier, please access the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834678/Minutes+of+the+Security+Reference+Data+Project).
 * **Join the mailing list**
 Communications for the Securities Reference Data project are conducted through the data-tech-sec-ref@finos.org mailing list. Please email [data-tech-sec-ref+subscribe@finos.org](mailto:data-tech-sec-ref+subscribe@finos.org) to join the mailing list.
 * **Contribute use cases** at https://github.com/finos/secref-data/issues/33
