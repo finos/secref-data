@@ -23,16 +23,17 @@ There are a range of trade identifiers used across financial services (ISIN, CUS
 However, no single code covers all securities, while individual securities may be represented by multiple identifiers and the granularity of coverage at entity vs. corporate level also varies. This often necessitates costly and error prone mapping across identifiers. The extent of the problem is greater in some asset classes than others and certainly more prominent within the OTC market.
 Additionaly, the existence of regionally focused bodies/companies responsible for issuing the identifiers and, in come cases, requiring licenses to access them contributes to the problem, as they minimize the possibility of consolidation onto one identifier, causing delays and reducing transparency. All of these factors impact market efficiency and contribute to trade breaks and errors.
 
-### Contribute to SecRef Data
-All Securities Reference Data project collaboration activities, including meeting minutes, are hosted on this SecRef Data GitHub repo. Activities prior to July 2020 can be found in the Securities Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834673/Security+Reference+Data+Project). For more information about FINOS project materials and communication, please review the [FINOS Governance](https://github.com/finos/community/blob/master/governance/Collaborative-Principles.md).
+### Get Involved: Contribute to SecRef Data
+There are several ways to get involved in SecRef Data:
 
-There are several ways to contribute to SecRef Data:
-* **Browse past meeting minutes**: browse past meeting minutes in [GitHub](https://github.com/finos/secref-data/issues?q=label%3Ameeting+). If you're looking for meeting minutes dated June 2020 or earlier, please access the Security Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834678/Minutes+of+the+Security+Reference+Data+Project).
+* **Contribute code** or contribute to **building the mapping table**: reach out to data-tech-sec-ref@finos.org expressing your interest in contributing or [raise an issue](https://github.com/finos/secref-data/issues/new/choose)
+* **Contribute use cases** at https://github.com/finos/secref-data/issues/33 
 * **Join the mailing list**
 Communications for the Securities Reference Data project are conducted through the data-tech-sec-ref@finos.org mailing list. Please email [data-tech-sec-ref+subscribe@finos.org](mailto:data-tech-sec-ref+subscribe@finos.org) to join the mailing list.
-* **Contribute use cases** at https://github.com/finos/secref-data/issues/33
-* **Contribute code** or contribute to **building the mapping table**: reach out to data-tech-sec-ref@finos.org expressing your interest in contributing
-* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://github.com/finos/secref-data/issues/new/choose)
+
+
+All Securities Reference Data project collaboration activities, including [meeting minutes](https://github.com/finos/secref-data/issues?q=label%3Ameeting+),are hosted on this SecRef Data GitHub repo. Activities prior to July 2020 can be found in the Securities Reference Data project [archive](https://finosfoundation.atlassian.net/wiki/spaces/DT/pages/656834673/Security+Reference+Data+Project).  For more information about FINOS project materials and communication, please review the [FINOS Governance](https://github.com/finos/community/blob/master/governance/Collaborative-Principles.md).
+
 
 ## Currency Reference Data 
 
@@ -50,7 +51,7 @@ The Currency Reference Data work stream spawned off the [Legend Pilot FX Options
 
 In an example of cross pollination across FINOS projects, the FX Options working group connected with the Securities Reference Data project and participants from both groups decided to set up a Currency Reference Data work stream. 
 
-### Contribute to CurRef Data
+### Get Involved: Contribute to CurRef Data
 There are several ways to contribute to Currency Reference Data:
 
 * **Join the next meeting**: participants of the Currency Reference Data workstream meet every second Tuesday at 10am ET / 3pm GMT. Find the next meeting on the [FINOS projects calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) and browse [past meeting minutes in GitHub](https://github.com/finos/secref-data/labels/meeting).
