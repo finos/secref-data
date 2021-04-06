@@ -49,6 +49,9 @@ For more information see the **[Currency Reference Data Roadmap](https://github.
 
 The Currency Reference Data work stream spawned off the [Legend Pilot FX Options working group](https://github.com/finos/legend#phase-1-january-2020---september-2020---completed), which identified the need to standardise currency data for several use cases. The ISO Currency code data will be the baseline set of records and attributes which will be enriched with additional attributes and eventually with additional rows for non-ISO currencies and precious metals.  The benefit to the industry would be a single shared source of this reference data that is managed by a group of industry participants.
 
+[<img src="https://user-images.githubusercontent.com/51138318/113764904-9833a580-96e9-11eb-9301-aab8cfb07f81.png" width="300">](https://www.iso.org/iso-4217-currency-codes.html)
+
+
 In an example of cross pollination across FINOS projects, the FX Options working group connected with the Securities Reference Data project and participants from both groups decided to set up a Currency Reference Data work stream. 
 
 ### Get Involved: Contribute to CurRef Data
