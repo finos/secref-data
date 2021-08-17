@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 # Currency Reference Data Meeting
- ## Date
+[Currency Reference data overview, roadmap and background](https://github.com/finos/secref-data#currency-reference-data)
+
+## Date
 YYYYMMDD - 10am ET / 3pm GMT
 
 ## Untracked attendees
