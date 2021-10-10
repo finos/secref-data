@@ -37,6 +37,9 @@ All Securities Reference Data project collaboration activities, including [meeti
 
 ## Currency Reference Data 
 
+### Overview
+[Collaborating on a Model and Data Standard](https://www.youtube.com/watch?v=aIpYLu4PrLs&list=PLbzoR-pLrL6qpva7J9joOU5Nvx_A_ax_L&index=28) - Presentation by Vijayesh Chandel & Elaine Fraser, Goldman Sachs & Sailesh Pandey, Nomura, at the [October 2021 Open Source Strategy Forum](https://events.linuxfoundation.org/open-source-strategy-forum/) in London.
+
 ### Roadmap
 The objective of this work stream is to create a standard object to represent currency data and create a central cloud based repository of the currency data. 
 Modeling is being done in the FINOS hosted instance of [Legend Studio](https://github.com/finos/legend-studio), and the current model can be accessed at https://legend.finos.org/studio/viewer/UAT-38 (see screenshot below) Please note that you will need to have an account on the FINOS hosted instance of Legend Studio in order to access it. You can request an account at [finos.org/legend](https://www.finos.org/legend). 
