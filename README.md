@@ -37,34 +37,7 @@ All Securities Reference Data project collaboration activities, including [meeti
 
 ## Currency Reference Data 
 
-### Overview
-[Collaborating on a Model and Data Standard](https://www.youtube.com/watch?v=aIpYLu4PrLs&list=PLbzoR-pLrL6qpva7J9joOU5Nvx_A_ax_L&index=28) - Presentation by Vijayesh Chandel & Elaine Fraser, Goldman Sachs & Sailesh Pandey, Nomura, at the [October 2021 Open Source Strategy Forum](https://events.linuxfoundation.org/open-source-strategy-forum/) in London.
-
-### Roadmap
-The objective of this work stream is to create a standard object to represent currency data and create a central cloud based repository of the currency data. 
-Modeling is being done in the FINOS hosted instance of [Legend Studio](https://github.com/finos/legend-studio), and the current model can be accessed at https://legend.finos.org/studio/viewer/UAT-38 (see screenshot below) Please note that you will need to have an account on the FINOS hosted instance of Legend Studio in order to access it. You can request an account at [finos.org/legend](https://www.finos.org/legend). 
-
-<img src="https://github.com/finos/secref-data/blob/master/CurRefModel_Screenshot.png" width="1000">
-
-For more information see the **[Currency Reference Data Roadmap](https://github.com/finos/secref-data/issues/29)**.
-
-#### Background
-
-The Currency Reference Data work stream spawned off the [Legend Pilot FX Options working group](https://github.com/finos/legend#phase-1-january-2020---september-2020---completed), which identified the need to standardise currency data for several use cases. The ISO Currency code data will be the baseline set of records and attributes which will be enriched with additional attributes and eventually with additional rows for non-ISO currencies and precious metals.  The benefit to the industry would be a single shared source of this reference data that is managed by a group of industry participants.
-
-[<img src="https://user-images.githubusercontent.com/51138318/113764904-9833a580-96e9-11eb-9301-aab8cfb07f81.png" width="300">](https://www.iso.org/iso-4217-currency-codes.html)
-
-
-In an example of cross pollination across FINOS projects, the FX Options working group connected with the Securities Reference Data project and participants from both groups decided to set up a Currency Reference Data work stream. 
-
-### Get Involved: Contribute to CurRef Data
-There are several ways to contribute to Currency Reference Data:
-
-* **Join the next meeting**: participants of the Currency Reference Data workstream meet every second Tuesday at 10am ET / 3pm GMT. Find the next meeting on the [FINOS projects calendar](https://calendar.google.com/calendar/u/0/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig@group.calendar.google.com&ctz=America/New_York) and browse [past meeting minutes in GitHub](https://github.com/finos/secref-data/labels/meeting).
-* **Join the mailing list**: Communications for the Currency Reference Data project are conducted through the currency-ref-data@finos.org mailing list. Please email [currency-ref-data@finos.org](mailto:currency-ref-data@finos.org) to join the mailing list.
-* **Propose changes to the model**: request an account on the FINOS Legend Studio hosted instance at [finos.org/legend](https://www.finos.org/legend) in order to access the model at https://legend.finos.org/studio/viewer/UAT-38
-* **Contribute use cases** at https://github.com/finos/secref-data/issues/30
-* **Raise an issue**: if you have any questions or suggestions, please [raise an issue](https://github.com/finos/secref-data/issues/new/choose)
+The Security Reference Data project hosted a work stream on Currency Reference Data until January 2022. Currency Reference Data was [proposed and set up](https://github.com/finos/community/issues/136) as a separate FINOS project. See https://github.com/finos/curref-data for Currency Reference Data information, resources and collaboration materials.
 
 ## Contributing
 
